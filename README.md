@@ -1,2 +1,2 @@
 # correct
-actity 1 for CS326 
+a false activity to do in CS326
